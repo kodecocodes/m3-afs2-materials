@@ -21,12 +21,14 @@ struct ContentView: View {
           .bold()
       }
       Button("Hit me") {
-        
+
       }
     }
   }
 }
 
-#Preview {
-  ContentView()
+struct ContentView_Previews: PreviewProvider {
+  static var previews: some View {
+    ContentView()
+  }
 }

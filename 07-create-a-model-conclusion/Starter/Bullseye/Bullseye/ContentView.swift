@@ -3,7 +3,7 @@ import SwiftUI
 struct ContentView: View {
   @State private var alertIsVisible: Bool = false
   @State private var sliderValue: Double = 50.0
-  
+
   var body: some View {
     VStack {
       Text("🎯🎯🎯\nPUT THE BULLSEYE AS CLOSE AS YOU CAN TO")
