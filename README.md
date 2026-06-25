@@ -1,12 +1,8 @@
-# Your First iOS App: SwiftUI Data: Materials
+# Your First iOS App: Data Flow in SwiftUI: Materials
 
 
 
-This repo contains all the downloadable materials and projects associated with the **Your First iOS App: SwiftUI Data** module in:
-
-### [Course](https://www.kodeco.com/library)
-
-- This course is part of [Program](https://www.kodeco.com), which you can take as either on-demand or live bootcamp from [Kodeco](https://www.kodeco.com).
+This repo contains all the downloadable materials and projects associated with the [Your First iOS App: Data Flow in SwiftUI](https://www.kodeco.com/ios/paths/first-ios-app-from-scratch/53126114-your-first-ios-app-data-flow-in-swiftui) module from [Kodeco](https://www.kodeco.com).
 
 --- 
 
@@ -16,4 +12,4 @@ Each edition has its own branch, named `versions/[VERSION]`. The default branch 
 
 | Branch                                                                                  | Version | Release Date |
 | --------------------------------------------------------------------------------------- |:-------:|:------------:|
-| [versions/1.0](https://github.com/kodecocodes/m3-afs2-materials/tree/versions/1.0) | 1.0     | YYYY-MM-DD   |
+| [versions/1.0](https://github.com/kodecocodes/m3-afs2-materials/tree/versions/1.0) | 1.0     | 2026-06-25   |
